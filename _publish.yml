@@ -1,0 +1,4 @@
+- source: markup.qmd
+  quarto-pub:
+    - id: cba6639f-daae-4aea-9766-7566c35feb4c
+      url: 'https://quartopub.com/sites/dhtrier/doccolloq'

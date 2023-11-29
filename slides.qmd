@@ -1,0 +1,102 @@
+---
+title: "Was ist Digital Humanities?" 
+subtitle: "Vorstellung des Fachs für STeM-Studierende"
+author: "Christof Schöch" 
+date: "11.30.2023"
+institute: Digital Humanities – Universität Trier
+title-slide-attributes:
+    data-background-image: img/basics/uni-trier_icon.png
+    data-background-size: 50px
+    data-background-position: top right
+
+format:
+  revealjs:
+    incremental: true   
+    transition: fade
+    transition-speed: slow
+    scrollable: true
+    theme: 
+    - simple
+    - custom.scss
+    slide-number: true
+    progress: true
+    navigation-mode: vertical
+    standalone: true
+    embed-resources: true
+  pdf: 
+    toc: true
+    number-sections: true
+    colorlinks: true
+    papersize: a4
+
+---
+
+# (1) Was ist das, Digital Humanities? 
+
+## Was ist das, Digital Humanities? 
+
+- Die Nutzung informatischer Methoden für geisteswissenschaftliche Fragestellungen 
+- Die Anpassung, Entwicklung und Erprobung informatischer und/oder statistischer Methoden für ihre Anwendung auf Gegenstände aus Literatur, Geschichte, Kunst und Kultur zur Beantwortung methodischer und inhaltlicher Fragestellungen 
+- Digitale Edition, Digitale Lexikographie, Computational Literary Studies, Digital History, Digitale Kunstgeschichte, Archäologie, Digital Classics, uvm.
+- Nicht nur digitale Methoden für die Geisteswissenschaften, sondern auch geisteswissenschaftliche Fragen an die Digitalisierung
+
+
+# (2) Exemplarische Gegenstände, Fragestellungen und Methoden 
+
+## Zeitgenössische italienische Literatur | Wer ist 'Elena Ferrante'? | Stilometrische Autorschaftsattribution
+
+::: {.r-stack}
+![](img/starnone.png){.fragment height="550"}
+
+![](img/starnone-ferrante-150.png){.fragment height="550"}
+:::
+
+
+
+## Historische Weinetiketten | Wie kann man diese erschließen? | Datenmodell oder ChatGPT
+
+::: {.r-stack}
+![](img/weinetiketten-sammlung.png){.fragment height="550"}
+
+![](img/weinetiketten-schema.png){.fragment height="550"}
+
+![](img/weinetiketten-chatgpt.png){.fragment height="550"}
+:::
+
+
+## Erzählformen | Wie entwickeln sie sich im 18. Jhdt.? | Linked Open Data
+
+::: {.r-stack}
+![](img/narrative-formen_query.png){.fragment height="550"}
+
+![](img/narrative-formen_query.png){.fragment height="550"}
+:::
+
+
+# (3) Abschluss
+
+## Digital Humanities in Trier
+
+- Solche und viele weitere Fragestellungen werden in den Digital Humanities bearbeitet 
+- In Trier geschieht das u.a.:
+  - an der Professur für Digital Humanities (FB II)
+  - am Trier Center for Digital Humanities 
+  - gemeinsam mit der Wissenschaftlichen Bibliothek der Stadt Trier
+  - an der Universitätsbibliothek
+  - in der Geschichte (FB III)
+- ... und natürlich im Bachelor STeM und im Master DH!
+
+
+## Danke | Infos | Kontakt
+
+:::{.nonincremental}
+
+- Webseiten
+  - [https://dh.uni-trier.de](https://dh.uni-trier.de)
+  - [https://tcdh.uni-trier.de](https://tcdh.uni-trier.de)
+- Social Media
+  - [https://fedihum.org/@tcdh](https://fedihum.org/@tcdh)
+- Email
+  - [schoech@uni-trier.de](mailto:schoech@uni-trier.de)
+
+:::

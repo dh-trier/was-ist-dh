@@ -38,6 +38,7 @@ format:
 - Die Nutzung informatischer Methoden für geisteswissenschaftliche Fragestellungen 
 - Die Anpassung, Entwicklung und Erprobung informatischer und/oder statistischer Methoden für ihre Anwendung auf Gegenstände aus Literatur, Geschichte, Kunst und Kultur zur Beantwortung methodischer und inhaltlicher Fragestellungen 
 - Digitale Edition, Digitale Lexikographie, Computational Literary Studies, Digital History, Digitale Kunstgeschichte, Archäologie, Digital Classics, uvm.
+- Ein Forschungsgebiet und eine Community, die es unter diesem Namen seit etwa 20 Jahren, unter anderen Namen aber seit der Mitte des 20. Jahrhunderts gibt
 - Nicht nur digitale Methoden für die Geisteswissenschaften, sondern auch geisteswissenschaftliche Fragen an die Digitalisierung
 
 

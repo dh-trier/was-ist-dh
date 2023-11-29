@@ -58,7 +58,7 @@ format:
 ::: {.r-stack}
 ![](img/weinetiketten-sammlung.png){.fragment height="550"}
 
-![](img/weinetiketten-schema.png){.fragment height="550"}
+![](img/weinetiketten-schema_highlights.png){.fragment height="550"}
 
 ![](img/weinetiketten-chatgpt.png){.fragment height="550"}
 :::
